@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF=8">
+<meta name="veiwport" content="width=device-width", intial scale=0.1">
+<title>Flipkart</title>
+</head>
+<body>
+<h1> Flipkart is an online shopping website</h1>
+</body>
+</html>
